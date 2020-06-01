@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescendingOrder", "Descendi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCounting", "BiCounting\BitCounting.csproj", "{01FEED92-9C17-45A7-B110-6EA4CFE07069}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListFiltering", "ListFiltering\ListFiltering.csproj", "{684BDA84-8647-4527-8E53-F6BEF4DE3264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{01FEED92-9C17-45A7-B110-6EA4CFE07069}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01FEED92-9C17-45A7-B110-6EA4CFE07069}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01FEED92-9C17-45A7-B110-6EA4CFE07069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684BDA84-8647-4527-8E53-F6BEF4DE3264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684BDA84-8647-4527-8E53-F6BEF4DE3264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684BDA84-8647-4527-8E53-F6BEF4DE3264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684BDA84-8647-4527-8E53-F6BEF4DE3264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
